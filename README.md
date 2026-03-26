@@ -1,2 +1,1 @@
-# gg-python-projects
 DATA SCIENCE WITH PYTHON PROJECTS
